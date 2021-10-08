@@ -1,4 +1,4 @@
-# SqlServerLoadTesting
+# Loading testing SQL Server using ostress.exe
 
 Examples of Load Testing SQL Server queries by simulating a number of concurrent sessions each running a SQL script a number of times using ostress from Microsoft's RML Utilities for SQL Server.
 
