@@ -1,4 +1,4 @@
-"C:\Program Files\Microsoft Corporation\RMLUtils\ostress.exe" ^
+".\Dependencies\ostress.exe" ^
 -S. ^
 -d"AdventureWorks2012" ^
 -n30 ^
